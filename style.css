@@ -424,6 +424,14 @@ nav .fa-solid{
         margin-bottom: 30px;
         padding:0%;
     }
+
+    
+    .about-col-1 img{
+       width: fit-content;
+        height: fit-content;
+    }
+
+    
     .about-col-2{
         font-size: 14px;
     }
