@@ -2,7 +2,6 @@
     margin:0;
     padding:0;
     box-sizing: border-box;
-    overflow-x: hidden;
 }
 body{
     background: #080808;
@@ -432,7 +431,7 @@ nav .fa-solid{
         justify-content: center;
         align-items:center;
         width: 100%
-        margin:0px;
+        margin:0px 0px;
     }
 
     
