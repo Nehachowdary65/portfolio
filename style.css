@@ -428,10 +428,8 @@ nav .fa-solid{
 
     
     .about-col-1 img{
-        display:flex;
-        justify-content: center;
-        align-items:center;
-     width: 95%
+        width: 100%
+        margin:0px;
     }
 
     
